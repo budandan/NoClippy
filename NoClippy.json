@@ -1,4 +1,4 @@
-﻿{
+﻿[{
   "Author": "UnknownX",
   "Name": "NoClippy",
   "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
@@ -15,4 +15,4 @@
   "InternalName": "NoClippy",
   "AssemblyVersion": "9.9.9.9",
   "Changelog": ""
-}
+}]
